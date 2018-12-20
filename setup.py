@@ -11,11 +11,11 @@ setuptools.setup(
     description="Open a picture of a cat in a new tab on your browser",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/giacomolaw/catpictures",
+    url="https://github.com/GiacomoLaw/catpictures",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: MIT License",
+        "OSI Approved :: GNU General Public License v3 or later (GPLv3+)",
         "Operating System :: OS Independent",
     ],
 )
