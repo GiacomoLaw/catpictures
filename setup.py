@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="catpictures",
-    version="1",
+    version="1.1",
     author="Giacomo Lawrance",
     author_email="thenerdystudent@gmail.com",
     description="Open a picture of a cat in a new tab on your browser",
